@@ -14,7 +14,7 @@ Anirudh Sivakumar - T 6 to 7 pm and W 5:30 to 6:30 pm @ CPE OXE Room
 Eduardo Priego - TTH 11 am to 12 pm @ EER 2.628
 
 ## Textbook
-Can be found under the Desktop/CAD folder.
+We will be using Introduction to Programming Using Python.
 
 ## Homework
 Homework will be updated weekly and is under the Homework folder.
